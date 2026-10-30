@@ -1,1 +1,1 @@
-# fireblocks-apps
+# apps
